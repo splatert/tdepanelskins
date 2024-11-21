@@ -1,7 +1,6 @@
 # tdepanelskins
 Taskbar/Panel skins I've made for the Trinity Desktop Environment.
 
-
 ### Orange
 <img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png">
 
@@ -19,6 +18,11 @@ Taskbar/Panel skins I've made for the Trinity Desktop Environment.
 
 ### Phisher's Price
 <img src="panelbars/bar_blue.png"><img src="panelbars/bar_blue.png"><img src="panelbars/bar_blue.png"><img src="panelbars/bar_blue.png"><img src="panelbars/bar_blue.png"><img src="panelbars/bar_blue.png"><img src="panelbars/bar_blue.png"><img src="panelbars/bar_blue.png">
+
+
+### Terrible Investment
+<img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png">
+
 
 
 ### Mind Electric
