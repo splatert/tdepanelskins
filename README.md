@@ -29,6 +29,11 @@ Taskbar/Panel skins I've made for the Trinity Desktop Environment.
 
 
 
+### 4th of July
+<img src="panelbars/patriot.png"><img src="panelbars/patriot.png"><img src="panelbars/patriot.png"><img src="panelbars/patriot.png"><img src="panelbars/patriot.png"><img src="panelbars/patriot.png"><img src="panelbars/patriot.png"><img src="panelbars/patriot.png">
+
+
+
 
 ### Mind Electric
 <img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png">
