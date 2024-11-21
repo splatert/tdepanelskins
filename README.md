@@ -1,8 +1,8 @@
 # tdepanelskins
 Taskbar/Panel skins I've made for the Trinity Desktop Environment.
 
-### Orange
-<img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png"><img src="panelbars/bar.png">
+### Aqua
+<img src="panelbars/aqua.png"><img src="panelbars/aqua.png"><img src="panelbars/aqua.png"><img src="panelbars/aqua.png"><img src="panelbars/aqua.png"><img src="panelbars/aqua.png"><img src="panelbars/aqua.png"><img src="panelbars/aqua.png">
 
 ### Majesty Blue
 <img src="panelbars/bar2.png"><img src="panelbars/bar2.png"><img src="panelbars/bar2.png"><img src="panelbars/bar2.png"><img src="panelbars/bar2.png"><img src="panelbars/bar2.png"><img src="panelbars/bar2.png"><img src="panelbars/bar2.png">
