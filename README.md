@@ -24,6 +24,11 @@ Taskbar/Panel skins I've made for the Trinity Desktop Environment.
 <img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png"><img src="panelbars/xmr.png">
 
 
+### Red Scare
+<img src="panelbars/redscare.png"><img src="panelbars/redscare.png"><img src="panelbars/redscare.png"><img src="panelbars/redscare.png"><img src="panelbars/redscare.png"><img src="panelbars/redscare.png"><img src="panelbars/redscare.png"><img src="panelbars/redscare.png">
+
+
+
 
 ### Mind Electric
 <img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png"><img src="panelbars/electric.png">
